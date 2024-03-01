@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">Connect with me : -</p>
+<p align="center">Connect with me : -</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kalash-kose-432600248/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
