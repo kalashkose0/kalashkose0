@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">S O F T W A R E   ~  E N G I N E E R</h4>
+<h4 align="center">S O F T W A R E   ~  E N G I N E E R</h4>
 
 ###
 
-<p align="left">💹📈</p>
+<p align="center">💹📈</p>
 
 ###
 
