@@ -67,12 +67,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kalashkose0/count.svg?"  />
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/kalashkose0/kalashkose0/output/snake.svg" alt="Snake animation" />
-
-###
