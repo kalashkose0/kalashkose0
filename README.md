@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Connect with me : -</p>
+<p align="center">Get in Touch : -</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">Technologies I Work With</h2>
 
 ###
 
