@@ -19,7 +19,7 @@
 
 - **Frontend**: Flutter, HTML5, CSS 📲
 - **Databases & Backend**: Firebase , MySQL 💻
-- - **Programming Languages:**: Java, Dart, C/C++ 💻
+- **Programming Languages:**: Java, Dart, C/C++ 💻
 - **Development Tools & IDEs**: Android Studio, VS Code, IntelliJ IDEA, Workbench 🛠 
 - **Version Control & Collaboration:**: Git, GitHub 🔧
 
