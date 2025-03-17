@@ -24,8 +24,8 @@
 
 ## My Approach
 
-- **Problem Solving**: I like solving difficult problems and creating solutions that help people and businesses.
-- **Continuous Learning**: I keep learning new things in web development to build better and modern solutions.
+- **Problem Solving**: I like solving difficult problems and creating solutions.
+- **Continuous Learning**: I keep learning new things in development to build better and modern solutions.
 
 ###
 
